@@ -1,0 +1,3 @@
+[submodule "demrepo"]
+	path = demrepo
+	url = https://github.com/pradeep-motupalli/demrepo.git
